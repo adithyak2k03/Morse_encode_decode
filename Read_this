@@ -1,0 +1,5 @@
+The 2 codes are used to encode and decode morse.
+both are .py files, for executable even if called from another program aswell
+Lot part of the code especially in morse_decode.py seems useless. since this is my first commint i want my raw coding be part of this.
+I didnt care much about efficiency here aswell. Just made the code work and checked them.
+Lot to improve in future updates to this codes and maybe add a GUI for user convinience.
